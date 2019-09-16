@@ -1,19 +1,10 @@
-.card-img {
-   max-width: 100%;
-    height: auto;
-    margin-top: 2em;
-}
-
-.navcontainer {
-    max-width: 100%;
-    background-color: beige;
-    padding-top: 2em;
-    border: .2em ivory solid;
+header {
+    background-color: beiges;
 }
 
 form {
     background-color: beige;
-    border: .2em ivory solid;
+    border: .2em ivorys solid;
     padding: 3em;
     margin: 5em;
 
@@ -27,57 +18,19 @@ form {
     margin-top: 0em;
 }
 
-.card {
+
+.img-fluid {
+   padding: 2px;
+   margin: 4px;
+}
+
+.container-head, .form-head {
     background-color: beige;
-    border: .2em ivory solid;
-    border-bottom: 0em;
-    margin: 5em;
-    margin-bottom: 8em;
-
+    border-bottom: 2px ivory solid;
+    margin: 10px;
 }
 
-.card-img-overlay {
-    display: block;
-    background-color: slategray;
-    text-align: center;
-    align-self: baseline;
-    margin: 10em 0em 1em 0em;
-}
-
-.form-head {
-    font-size: 20px;
-    font-weight: bold;
-    align-content: left;
-    padding: 20px;
-    border: 1px solid, ivory;
-}
-
-.container-head {
+footer {
     background-color: beige;
-    border: 2px black solid;
-    margin: auto;
-    text-align: end;
-}
-
-.col-3 {
-    background-color: aqua;
-}
-
-h3, h2 {
-    text-align: center;
-    background-color: aqua;
-    width: 20%;
-    margin-bottom: 0%;
-    margin-left: 4em;
-    padding: 0%;
-}
-
-.container-prof {
-    background-color: beige;
-    margin: 2em;
-}
-
-.card {
-    padding-bottom: 1em;
-
+    border-top: 3px ivory solid;
 }
